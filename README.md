@@ -17,23 +17,23 @@
 
 <p align="center">
   <a href="mailto:jagdish.pulpett@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="28" style="vertical-align:middle;">
+    <img src="assets/gmail.png" alt="Email" width="28" style="vertical-align:middle;">
   </a>
   &nbsp;
   <a href="https://wa.me/919137881027" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="28" style="vertical-align:middle;">
+    <img src="assets/whatsapp.png" alt="WhatsApp" width="28" style="vertical-align:middle;">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/jagdish-pulpet" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="28" style="vertical-align:middle;">
+    <img src="assets/linkedin.png" alt="LinkedIn" width="28" style="vertical-align:middle;">
   </a>
   &nbsp;
   <a href="https://github.com/jagdish-pulpet" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="28" style="vertical-align:middle;">
+    <img src="assets/github.png" alt="GitHub" width="28" style="vertical-align:middle;">
   </a>
   &nbsp;
   <a href="https://your-portfolio-demo.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="28" style="vertical-align:middle;">
+    <img src="assets/portfolio.png" alt="Portfolio" width="28" style="vertical-align:middle;">
   </a>
 </p>
 
@@ -158,9 +158,9 @@ University of Mumbai
 
 <p align="center">
   <a href="mailto:jagdish.pulpett@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="20" style="vertical-align:middle;"> jagdish.pulpett@gmail.com
+    <img src="assets/gmail.png" alt="Email" width="20" style="vertical-align:middle;"> jagdish.pulpett@gmail.com
   </a> <br>
-  <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" width="18" style="vertical-align:middle;"> +91 91378 81027
+  <img src="assets/phone.png" alt="Phone" width="18" style="vertical-align:middle;"> +91 91378 81027
 </p>
 
 ---
