@@ -15,8 +15,8 @@
 
 <!-- START: Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-2+%20years-green?style=flat-square&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Mumbai,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3+%20years-green?style=flat-square&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=flat-square&logo=addthis&logoColor=white" />
 </p>
 
@@ -129,7 +129,7 @@ Creative and detail-oriented professional with a strong foundation in graphic de
 
 <!-- START: Job Position 1 -->
 **Junior Android Developer**  
-_Jul 2025 – Dec 2025_
+_Jul 2022 – Jun 2025_
 
 - Assisted in developing Android applications using Java and XML.
 - Participated in app testing, debugging, and deployment to the Play Store.
@@ -137,7 +137,7 @@ _Jul 2025 – Dec 2025_
 
 <!-- START: Job Position 2 -->
 **Web Designer & Developer**  
-_Jan 2025 – Jun 2025_
+_Jan 2022 – Jun 2022_
 
 - Built responsive websites using HTML, CSS, JavaScript, and Bootstrap.
 - Worked closely with clients to translate requirements into functional web solutions.
@@ -145,7 +145,7 @@ _Jan 2025 – Jun 2025_
 
 <!-- START: Job Position 3 -->
 **UI Designer**  
-_Jul 2024 – Dec 2024_
+_Jul 2021 – Dec 2022_
 
 - Designed user interfaces for web and mobile applications, focusing on usability and aesthetics.
 - Developed wireframes and prototypes using Figma and Adobe XD.
@@ -153,7 +153,7 @@ _Jul 2024 – Dec 2024_
 
 <!-- START: Job Position 4 -->
 **Graphic Designer**  
-_Jan 2024 – Jun 2024_
+_Jan 2020 – Jun 2021_
 
 - Created marketing materials, social media graphics, and branding assets for various clients.
 - Collaborated with marketing teams to deliver visually impactful campaigns.
