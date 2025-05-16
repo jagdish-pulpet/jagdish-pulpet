@@ -3,7 +3,7 @@
 <!-- Contains profile photo, title badge, name, tagline, status badges, social links, bio summary, and skill badges -->
 <!-- Contains profile photo and title badge -->
 <p align="center">
-  <img src="assets/jagdish-profile-photo.jpg" alt="Jagdish Pulpet" width="180" style="border-radius:50%; border: 1px solid #23272F; box-shadow: 0 3px 12px rgba(30,30,30,0.5), 0 1.5px 6px rgba(0,0,0,0.18); background: linear-gradient(135deg, #23272F 0%, #444950 100%); margin-bottom: 8px;"><br>
+  <img src="assets/jagdish-profile-photo.jpg" alt="Jagdish Pulpet" width="180"><br>
   <img src="https://img.shields.io/badge/Full%20Stack%20Designer%20%7C%20Developer-23272F?style=for-the-badge&logo=codefactor&logoColor=white" alt="Full Stack Designer | Developer" />
 </p>
 
@@ -207,15 +207,15 @@ University of Mumbai
 
 <!-- START: GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagdish-pulpet&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagdish-pulpet&show_icons=true&theme=blueberry" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish-pulpet&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish-pulpet&theme=blueberry" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdish-pulpet&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdish-pulpet&theme=blueberry" alt="Top Languages" />
 </p>
 <!-- ========================= END: GitHub Stats Section ============================= -->
 
