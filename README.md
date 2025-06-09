@@ -177,13 +177,13 @@ University of Mumbai
 ## 🚀 Projects
 
 <!-- START: Projects Table -->
-| Project Name      | Description                                         | Technologies              | Link                                                         |
-| ----------------- | --------------------------------------------------- | ------------------------- | ------------------------------------------------------------ |
-| Portfolio Website | Personal website showcasing design and dev projects | HTML, CSS, JS, Bootstrap  | [View Live](https://jagdish-pulpet.github.io/portfolio)      |
-| Task Manager App  | Android app for managing daily tasks and reminders  | Java, Android Studio      | [GitHub](https://github.com/jagdish-pulpet/task-manager-app) |
-| Foodie Finder     | Web app to discover and review local restaurants    | React, Node.js, MongoDB   | [GitHub](https://github.com/jagdish-pulpet/foodie-finder)    |
+| Project Name         | Description                                               | Technologies                     | Link         | Last Commit Status |
+|----------------------|-----------------------------------------------------------|----------------------------------|--------------|--------------------|
+| Art NFT              | A platform for creating, buying, and selling digital art NFTs | Next.js, Node.js, MySQL         | [GitHub](https://github.com/jagdish-pulpet/artnft) | ![Last Commit](https://img.shields.io/github/last-commit/jagdish-pulpet/artnft) |      |
+| Emartos              | A modern, feature-rich e-commerce application built with Flutter, designed to provide a seamless shopping experience across multiple platforms. | Flutter, Dart                    | [Codeberg](https://codeberg.org/jpulpet/emartos) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
+| TicTak          | Full stack  media app for creating and sharing short videos built using Laravel Admin, Android native devices,  where users can enjoy the classic experience. | Laravel, Java, Android Studio, MySQL             | [Codeberg](https://codeberg.org/jpulpet/tictac-android-java) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
 | SnapEdit          | Online tool for quick photo editing and filters     | HTML5, CSS3, JavaScript   | [View Demo](https://jagdish-pulpet.github.io/snapedit)       |
-| Study Buddy       | Collaborative platform for student study groups     | Django, Bootstrap, SQLite | [GitHub](https://github.com/jagdish-pulpet/study-buddy)      |
+
 <!-- ========================= END: Projects Section ================================ -->
 
 ---
