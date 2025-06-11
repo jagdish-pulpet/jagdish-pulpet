@@ -136,14 +136,19 @@
 <!-- Highlights of main areas of expertise -->
 ## 🏆 Core Competencies
 
-- Visual Design & Branding
-- UI/UX Design & Prototyping
-- Responsive Web Development
-- Android App Development
-- Cross-functional Collaboration
-- Problem Solving & Adaptability
+- **Digital Art Curation**: Expertise in curating and showcasing diverse digital artworks, ensuring a rich and engaging experience for users exploring the NFT space.
+- **User-Centric Design**: Focusing on user needs and preferences to create an intuitive interface that simplifies the process of discovering, creating, and trading NFTs.
+- **Blockchain Proficiency**: In-depth knowledge of blockchain technology, enabling secure transactions and transparent ownership verification for digital assets.
+- **NFT Minting & Management**: Facilitating seamless minting processes for artists, allowing them to easily create and list their NFTs while managing their digital portfolios.
+- **Community Building**: Cultivating a vibrant community of artists, collectors, and enthusiasts, fostering collaboration and interaction through forums, events, and social features.
+- **Cross-Platform Development**: Developing a cohesive experience across web and mobile platforms, ensuring users can access the marketplace anytime, anywhere.
+- **Data-Driven Insights**: Utilizing analytics to track user behavior and preferences, driving continuous improvement and personalized experiences within the marketplace.
+- **AI-Enhanced Features**: Integrating AI tools to provide personalized recommendations, enhance search capabilities, and improve user engagement through smart interactions.
+- **Responsive & Adaptive Design**: Ensuring the platform is fully responsive, providing an optimal viewing experience across a wide range of devices and screen sizes.
+- **Innovative Marketing Strategies**: Implementing creative marketing campaigns to promote artists and their works, driving traffic and engagement within the marketplace.
 
 <!-- ========================= END: Core Competencies Section ======================== -->
+
 
 ---
 
