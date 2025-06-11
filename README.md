@@ -163,16 +163,22 @@ University of Mumbai
 
 ---
 
-<!-- START: Interests Section -->
+<!-- ========================= START: Interests Section ====================== -->
 ## 🎨 Interests
 
-<!-- ========================= START: Interests List ================================= -->
-<!-- List of personal and professional interests -->
-- Digital Art & Illustration
-- Mobile App Development
-- UI/UX Trends
-- Open Source Contribution
-<!-- ========================= END: Interests Section =============================== -->
+- **Digital Art Innovation**: Passionate about exploring new forms of digital art and the evolving landscape of NFTs, including generative art and interactive installations.
+- **Blockchain Technology**: Keen interest in the potential of blockchain to revolutionize ownership, provenance, and authenticity in the art world.
+- **Community Engagement**: Committed to fostering a vibrant community of artists and collectors, encouraging collaboration, feedback, and shared experiences.
+- **User Experience Research**: Enthusiastic about understanding user behavior and preferences to enhance the platform's usability and accessibility.
+- **Sustainable Art Practices**: Advocating for environmentally friendly practices in the digital art space, including discussions around energy-efficient blockchain solutions.
+- **Art Education & Awareness**: Dedicated to educating users about NFTs, digital art, and the opportunities they present for artists and collectors alike.
+- **Cultural Diversity in Art**: Promoting inclusivity and representation in the digital art community, celebrating diverse voices and perspectives.
+- **Emerging Technologies**: Exploring the intersection of art and technology, including virtual reality (VR), augmented reality (AR), and artificial intelligence (AI) in creative expression.
+- **Collaborative Projects**: Interested in initiating and participating in collaborative art projects that leverage the unique capabilities of the NFT marketplace.
+- **Art Market Trends**: Keeping abreast of trends and developments in the art market, particularly in the context of digital and NFT art, to inform strategic decisions.
+
+<!-- ========================= END: Interests Section ======================== -->
+
 
 ---
 
