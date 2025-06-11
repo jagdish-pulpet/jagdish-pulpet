@@ -70,44 +70,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-FF5722?logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-00BFFF?logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-0E76A8?logo=devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/UX/UI-FF4081?logo=ux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-00BFFF?logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Collaboration-FF4081?logo=team&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-FF5722?logo=seo&logoColor=white" />
-    <img src="https://img.shields.io/badge/Technical%20Lead-purple" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-red" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-25D366?logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-00BFFF?logo=ci&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-FF4081?logo=testing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code%20Review-FF5722?logo=review&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technical%20Documentation-FF9800?logo=documentation&logoColor=white" />
-    <img src="https://img.shields.io/badge/DevOps%20Engineer-blueviolet" />
-  <img src="https://img.shields.io/badge/Cloud%20Architect-lightblue" />
-  <img src="https://img.shields.io/badge/Azure-008AD7?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-41AA47?logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-FF9800?logo=monitoring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-00BFFF?logo=networking&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-FF5722?logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containerization-FF4081?logo=container&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%20Methodologies-00BFFF?logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-FF4081?logo=collaboration&logoColor=white" />
-  <img src="https://img.shields.io/badge/Incident%20Management-FF5722?logo=incident&logoColor=white" />
 </p>
 
 <!-- ========================= END: Profile Header Section =========================== -->
