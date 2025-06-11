@@ -4,7 +4,7 @@
 <!-- Contains profile photo and title badge -->
 <p align="center">
   <img src="assets/jagdish-profile-photo.jpg" alt="Jagdish Pulpet" width="180"><br>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Designer%20%7C%20Developer-23272F?style=for-the-badge&logo=codefactor&logoColor=white" alt="Full Stack Designer | Developer" />
+  <img src="https://img.shields.io/badge/Project%20Lead%20%7C%20Architect-23272F?style=for-the-badge&logo=codefactor&logoColor=white" alt="Project Lead / Architect" />
 </p>
 
 <!-- START: Name and Tagline -->
@@ -16,8 +16,6 @@
 <!-- START: Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mumbai,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3+%20years-green?style=flat-square&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=flat-square&logo=addthis&logoColor=white" />
 </p>
 
 <!-- START: Social Links -->
@@ -43,53 +41,94 @@
   </a>
 </p>
 
+
 <!-- START: Bio Summary -->
 <p align="center" style="max-width:600px;">
   <i>
-    Passionate about crafting beautiful, user-centric digital products.<br>
-    Experienced in graphic design, UI/UX, web development, and Android app development.<br>
-    Let's connect and create something amazing!
+    Innovating the digital art landscape with ArtNFT Marketplace.<br>
+    A full-stack web application empowering artists and collectors in the NFT space.<br>
+    Built with Next.js for a dynamic frontend, supported by a robust Node.js backend and PostgreSQL database.<br>
+    Integrating AI capabilities with Genkit to enhance user experience and community engagement.<br>
+    Join us in revolutionizing how art is created, shared, and valued!
   </i>
 </p>
+<!-- END: Bio Summary -->
+
 
 <!-- START: Skill Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Designer-blue" />
+  <img src="https://img.shields.io/badge/Product%20Manager-orange" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue" />
   <img src="https://img.shields.io/badge/Developer-green" />
+  <img src="https://img.shields.io/badge/Designer-blue" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF5722?logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-00BFFF?logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-0E76A8?logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX/UI-FF4081?logo=ux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-00BFFF?logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-FF4081?logo=team&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-FF5722?logo=seo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Technical%20Lead-purple" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-red" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-25D366?logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-00BFFF?logo=ci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-FF4081?logo=testing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Review-FF5722?logo=review&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical%20Documentation-FF9800?logo=documentation&logoColor=white" />
+    <img src="https://img.shields.io/badge/DevOps%20Engineer-blueviolet" />
+  <img src="https://img.shields.io/badge/Cloud%20Architect-lightblue" />
+  <img src="https://img.shields.io/badge/Azure-008AD7?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-41AA47?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-FF9800?logo=monitoring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-00BFFF?logo=networking&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-FF5722?logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containerization-FF4081?logo=container&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%20Methodologies-00BFFF?logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collaboration-FF4081?logo=collaboration&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Management-FF5722?logo=incident&logoColor=white" />
 </p>
 
 <!-- ========================= END: Profile Header Section =========================== -->
 
----
-
-<!-- ========================= START: Table of Contents Section ====================== -->
-<!-- Contains quick links to all major sections for easy navigation -->
-## 📑 Table of Contents
-
-- [Professional Summary](#professional-summary)
-- [Core Competencies](#core-competencies)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Education](#education)
-- [Projects](#projects)
-- [Interests](#interests)
-- [Contact](#contact)
-
-<!-- ========================= END: Table of Contents Section ======================== -->
 
 ---
 
-<!-- ========================= START: Professional Summary Section =================== -->
-<!-- Brief overview of professional background and strengths -->
-## 📝 Professional Summary
 
-Creative and detail-oriented professional with a strong foundation in graphic design, UI/UX, web development, and Android app development. Adept at transforming ideas into visually compelling and user-friendly digital experiences. Eager to contribute technical and creative skills to innovative projects and collaborative teams.
+<!-- ========================= START: Projects Section =============================== -->
+<!-- Notable projects with brief descriptions and links -->
+## 🚀 Projects
 
-<!-- ========================= END: Professional Summary Section ===================== -->
+<!-- START: Projects Table -->
+| Project Name         | Description                                               | Technologies                     | Link         | Last Commit Status |
+|----------------------|-----------------------------------------------------------|----------------------------------|--------------|--------------------|
+| Art NFT              | A platform for creating, buying, and selling digital art NFTs | Next.js, Node.js, MySQL         | [GitHub](https://github.com/jagdish-pulpet/artnft) | ![Last Commit](https://img.shields.io/github/last-commit/jagdish-pulpet/artnft) |      |
+| Emartos              | A modern, feature-rich e-commerce application built with Flutter, designed to provide a seamless shopping experience across multiple platforms. | Flutter, Dart                    | [Codeberg](https://codeberg.org/jpulpet/emartos) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
+| TicTak          | Full stack  media app for creating and sharing short videos built using Laravel Admin, Android native devices,  where users can enjoy the classic experience. | Laravel, Java, Android Studio, MySQL             | [Codeberg](https://codeberg.org/jpulpet/tictac-android-java) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
+| SnapEdit          | Online tool for quick photo editing and filters     | HTML5, CSS3, JavaScript   | [View Demo](https://jagdish-pulpet.github.io/snapedit)       |
+
+<!-- ========================= END: Projects Section ================================ -->
 
 ---
 
@@ -108,59 +147,6 @@ Creative and detail-oriented professional with a strong foundation in graphic de
 
 ---
 
-<!-- START: Skills Section -->
-## 🛠️ Skills
-
-<!-- ========================= START: Skills List ==================================== -->
-<!-- Detailed list of technical and soft skills -->
-- **Graphic Design:** Adobe Photoshop, Illustrator
-- **UI/UX Design:** Figma, Adobe XD
-- **Web Development:** HTML5, CSS3, JavaScript, Bootstrap
-- **Android Development:** Java, XML, Android Studio
-- **Version Control:** Git, GitHub
-- **Soft Skills:** Communication, Teamwork, Creativity
-<!-- ========================= END: Skills Section ================================== -->
-
----
-
-<!-- ========================= START: Experience Section ============================= -->
-<!-- Professional work experience, roles, and responsibilities -->
-## 💼 Experience
-
-<!-- START: Job Position 1 -->
-**Junior Android Developer**  
-_Jul 2022 – Jun 2025_
-
-- Assisted in developing Android applications using Java and XML.
-- Participated in app testing, debugging, and deployment to the Play Store.
-- Implemented responsive UI designs and optimized app performance.
-
-<!-- START: Job Position 2 -->
-**Web Designer & Developer**  
-_Jan 2022 – Jun 2022_
-
-- Built responsive websites using HTML, CSS, JavaScript, and Bootstrap.
-- Worked closely with clients to translate requirements into functional web solutions.
-- Improved site performance and SEO optimization for multiple client projects.
-
-<!-- START: Job Position 3 -->
-**UI Designer**  
-_Jul 2021 – Dec 2022_
-
-- Designed user interfaces for web and mobile applications, focusing on usability and aesthetics.
-- Developed wireframes and prototypes using Figma and Adobe XD.
-- Conducted user testing and implemented feedback to improve design solutions.
-
-<!-- START: Job Position 4 -->
-**Graphic Designer**  
-_Jan 2020 – Jun 2021_
-
-- Created marketing materials, social media graphics, and branding assets for various clients.
-- Collaborated with marketing teams to deliver visually impactful campaigns.
-<!-- ========================= END: Experience Section =============================== -->
-
----
-
 <!-- ========================= START: Education Section ============================== -->
 <!-- Academic background and qualifications -->
 ## 🎓 Education
@@ -169,22 +155,6 @@ _Jan 2020 – Jun 2021_
 Dr. D Y Patil's RAIT, Nerul, Navi Mumbai  
 University of Mumbai
 <!-- ========================= END: Education Section ================================ -->
-
----
-
-<!-- ========================= START: Projects Section =============================== -->
-<!-- Notable projects with brief descriptions and links -->
-## 🚀 Projects
-
-<!-- START: Projects Table -->
-| Project Name         | Description                                               | Technologies                     | Link         | Last Commit Status |
-|----------------------|-----------------------------------------------------------|----------------------------------|--------------|--------------------|
-| Art NFT              | A platform for creating, buying, and selling digital art NFTs | Next.js, Node.js, MySQL         | [GitHub](https://github.com/jagdish-pulpet/artnft) | ![Last Commit](https://img.shields.io/github/last-commit/jagdish-pulpet/artnft) |      |
-| Emartos              | A modern, feature-rich e-commerce application built with Flutter, designed to provide a seamless shopping experience across multiple platforms. | Flutter, Dart                    | [Codeberg](https://codeberg.org/jpulpet/emartos) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
-| TicTak          | Full stack  media app for creating and sharing short videos built using Laravel Admin, Android native devices,  where users can enjoy the classic experience. | Laravel, Java, Android Studio, MySQL             | [Codeberg](https://codeberg.org/jpulpet/tictac-android-java) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
-| SnapEdit          | Online tool for quick photo editing and filters     | HTML5, CSS3, JavaScript   | [View Demo](https://jagdish-pulpet.github.io/snapedit)       |
-
-<!-- ========================= END: Projects Section ================================ -->
 
 ---
 
@@ -239,7 +209,7 @@ University of Mumbai
 
 <!-- START: Footer -->
 <p align="center" style="color:#888;font-size:0.9em;">
-  &copy; 2025 Jagdish Pulpet &nbsp;|&nbsp; Last updated: May 16, 2025
+  &copy; 2025 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Jun 10, 2025
 </p>
 <!-- END: Footer -->
 
