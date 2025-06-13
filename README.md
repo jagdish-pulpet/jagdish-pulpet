@@ -150,14 +150,6 @@ University of Mumbai
 
 <!-- START: GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagdish-pulpet&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish-pulpet&theme=blueberry" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdish-pulpet&theme=blueberry" alt="Top Languages" />
 </p>
 <!-- ========================= END: GitHub Stats Section ============================= -->
@@ -182,7 +174,7 @@ University of Mumbai
 
 <!-- START: Footer -->
 <p align="center" style="color:#888;font-size:0.9em;">
-  &copy; 2025 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Jun 10, 2025
+  &copy; 2025 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Jun 13, 2025
 </p>
 <!-- END: Footer -->
 
