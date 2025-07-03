@@ -174,7 +174,7 @@ University of Mumbai
 
 <!-- START: Footer -->
 <p align="center" style="color:#888;font-size:0.9em;">
-  &copy; 2025 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Jun 13, 2025
+  &copy; 2025 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Jun 31, 2025
 </p>
 <!-- END: Footer -->
 
