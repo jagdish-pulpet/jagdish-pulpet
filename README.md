@@ -4,7 +4,8 @@
 <!-- Contains profile photo and title badge -->
 <p align="center">
   <img src="assets/jagdish-profile-photo.jpg" alt="Jagdish Pulpet" width="180"><br>
-  <img src="https://img.shields.io/badge/Project%20Lead%20%7C%20Architect-23272F?style=for-the-badge&logo=codefactor&logoColor=white" alt="Project Lead / Architect" />
+  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer" />
+
 </p>
 
 <!-- START: Name and Tagline -->
