@@ -59,7 +59,7 @@
 
 <!-- START: Skill Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Manager-orange" />
+  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue" />
   <img src="https://img.shields.io/badge/Developer-green" />
   <img src="https://img.shields.io/badge/Designer-blue" />
@@ -75,7 +75,7 @@
   
   <!-- START: Blockchain Developer Skill Badges -->
   <p align="center">
-  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F" />
+  
   <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-4B0082" />
   <img src="https://img.shields.io/badge/DApp%20Developer-3C3C3D" />
   <img src="https://img.shields.io/badge/Crypto%20Developer-F7931A" />
