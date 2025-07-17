@@ -72,6 +72,24 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-FF5722?logo=ai&logoColor=white" />
+  
+  <!-- START: Blockchain Developer Skill Badges -->
+  <p align="center">
+  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F" />
+  <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-4B0082" />
+  <img src="https://img.shields.io/badge/DApp%20Developer-3C3C3D" />
+  <img src="https://img.shields.io/badge/Crypto%20Developer-F7931A" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyperledger-00B2D2?logo=hyperledger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-35495E?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uniswap-FF007A?logo=uniswap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-8C4BFF?logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decentralized%20Finance%20(DeFi)-FF8C00" />
+</p>
+
+  
 </p>
 
 <!-- ========================= END: Profile Header Section =========================== -->
