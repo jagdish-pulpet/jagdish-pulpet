@@ -1,17 +1,17 @@
 <!-- ========================= START: Profile Header Section ========================= -->
 <!-- Contains profile photo, title badge, name, tagline, status badges, social links, bio summary, and skill badges -->
-<!-- Contains profile photo and title badge -->
-<p align="center">
-  <img src="assets/jagdish-profile-photo.jpg" alt="Jagdish Pulpet" width="180"><br>
-  <img src="https://img.shields.io/badge/Web3%20Developer-23272F?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 Developer" />
-  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer" />
-
-</p>
 
 <!-- START: Name and Tagline -->
 <h1 align="center" style="margin-bottom:0;">Jagdish Pulpet</h1>
 <p align="center" style="margin-top:0;">
   <b>Building digital experiences with design & code</b>
+</p>
+
+<!-- Contains profile title badge -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Web3%20Developer-23272F?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 Developer" />
+  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer" />
+
 </p>
 
 <!-- START: Status Badges -->
@@ -43,25 +43,15 @@
 </p>
 
 <!-- START: Bio Summary -->
-<p align="center" style="max-width:600px;">
+<p align="center" style="max-width:700px;">
   <i>
-    Innovating the digital art landscape with ArtNFT Marketplace.<br>
-    A full-stack web application empowering artists and collectors in the NFT space.<br>
-    Built with Next.js for a dynamic frontend, supported by a robust Node.js backend and PostgreSQL database.<br>
-    Integrating AI capabilities with Genkit to enhance user experience and community engagement.<br>
-    Join us in revolutionizing how art is created, shared, and valued!
+    Full-stack blockchain developer and Web3 enthusiast specializing in NFT marketplace development, decentralized applications, and AI-integrated solutions.<br><br>
+    Currently architecting <b>ArtNFT Marketplace</b> — a comprehensive NFT platform built on Ethereum and Polygon, featuring smart contract integration, real-time auctions, and AI-powered recommendation engines.<br><br>
+    Passionate about bridging the gap between traditional web technologies and decentralized systems, creating seamless user experiences that make blockchain technology accessible to creators and collectors worldwide.<br><br>
+    Leveraging modern frameworks like Next.js, Node.js, and PostgreSQL, combined with AI tools such as Genkit and LLMs, to build scalable, performant, and intelligent applications that redefine digital ownership and community engagement.
   </i>
 </p>
 <!-- END: Bio Summary -->
-
-<!-- START: Skill Badges -->
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue" />
-  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F" />
-  <img src="https://img.shields.io/badge/AI-FF5722?logo=ai&logoColor=white" />
-
-</p>
 
 <!-- ========================= END: Profile Header Section =========================== -->
 
