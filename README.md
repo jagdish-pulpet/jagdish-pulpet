@@ -1,5 +1,10 @@
-<!-- ========================= START: Profile Header Section ========================= -->
-<!-- Contains profile photo, title badge, name, tagline, status badges, social links, bio summary, and skill badges -->
+<!-- ================================================================ -->
+<!-- 🚀 PROFILE HEADER SECTION                                        -->
+<!-- ================================================================ -->
+<!-- Purpose: Display personal branding, identity, and contact links   -->
+<!-- Contains: Profile photo, role badges, name/tagline, location,    -->
+<!--           social media links, bio summary, and skill badges       -->
+<!-- ================================================================ -->
 
 <!-- START: Name and Tagline -->
 <h1 align="center" style="margin-bottom:0;">Jagdish Pulpet</h1>
@@ -7,19 +12,23 @@
   <b>Building digital experiences with design & code</b>
 </p>
 
-<!-- Contains profile title badge -->
+<!-- Role & Expertise Badges -->
 <p align="center">
     <img src="https://img.shields.io/badge/Web3%20Developer-23272F?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 Developer" />
-  <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer" />
-
+    <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer" />
 </p>
 
-<!-- START: Status Badges -->
+<!-- Geographic Location Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mumbai,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-<!-- START: Social Links -->
+<!-- ================================================================ -->
+<!-- 🔗 SOCIAL LINKS SECTION (API-BASED ICONS - NO LOCAL ASSETS)     -->
+<!-- ================================================================ -->
+<!-- External profiles using shields.io dynamic badges                -->
+<!-- Links: Email, WhatsApp, LinkedIn, GitHub, Portfolio              -->
+<!-- ================================================================ -->
 <p align="center">
   <a href="mailto:jagdish.pulpett@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-jagdish.pulpett%40gmail.com-red?logo=gmail&logoColor=white" alt="Email" />
@@ -43,7 +52,7 @@
 </p>
 
 <!-- START: Bio Summary -->
-<p align="center" style="max-width:700px;">
+<p align="center" style="max-width:90%; margin: 0 auto; padding: 0 1rem;">
   <i>
     Full-stack blockchain developer and Web3 enthusiast specializing in NFT marketplace development, decentralized applications, and AI-integrated solutions.<br><br>
     Currently architecting <b>ArtNFT Marketplace</b> — a comprehensive NFT platform built on Ethereum and Polygon, featuring smart contract integration, real-time auctions, and AI-powered recommendation engines.<br><br>
@@ -53,9 +62,13 @@
 </p>
 <!-- END: Bio Summary -->
 
-<!-- ========================= END: Profile Header Section =========================== -->
-
----
+<!-- ================================================================ -->
+<!-- 🚀 PROJECTS SECTION (COLLAPSIBLE)                               -->
+<!-- ================================================================ -->
+<!-- Featured projects with detailed descriptions,                  -->
+<!-- collapsible Key Features and Tech Stack sections,              -->
+<!-- and live demo/GitHub links                                      -->
+<!-- ================================================================ -->
 
 <!-- ========================= START: Projects Section =============================== -->
 <!-- Notable projects with brief descriptions and links -->
@@ -219,9 +232,25 @@ A lightweight, browser-based photo editing tool offering quick filters, adjustme
 - **Growth & Marketing**: Developing data-driven strategies for user acquisition, retention, and monetization through SEO, content, and partnerships.
 
 </details>
+
+<!-- ================================================================ -->
+<!-- 🏆 CORE COMPETENCIES SECTION (COLLAPSIBLE)                        -->
+<!-- ================================================================ -->
+<!-- Organized into 4 domains: Blockchain/Web3, Full-Stack, AI/ML,   -->
+<!-- and Product/Design Leadership                                     -->
+<!-- Click heading to expand/collapse all subcategories               -->
+<!-- ================================================================ -->
+
 <!-- ========================= END: Core Competencies Section ======================== -->
 
 ---
+
+<!-- ================================================================ -->
+<!-- 🎓 EDUCATION SECTION (COLLAPSIBLE)                               -->
+<!-- ================================================================ -->
+<!-- Academic background and formal qualifications                    -->
+<!-- Bachelor's degree in Computer Engineering                        -->
+<!-- ================================================================ -->
 
 <!-- ========================= START: Education Section ============================== -->
 <!-- Academic background and qualifications -->
@@ -237,6 +266,13 @@ University of Mumbai
 
 ---
 
+<!-- ================================================================ -->
+<!-- 📊 GITHUB STATS SECTION                                          -->
+<!-- ================================================================ -->
+<!-- Dynamic statistics from github-readme-stats.vercel.app API       -->
+<!-- Shows: Top languages, contribution stats, streak, and trophies   -->
+<!-- ================================================================ -->
+
 <!-- ========================= START: GitHub Stats Section =========================== -->
 <!-- GitHub statistics, streaks, and trophies -->
 
@@ -250,11 +286,57 @@ University of Mumbai
 
 ---
 
+<!-- ================================================================ -->
+<!-- 💖 SUPPORT SECTION                                              -->
+<!-- ================================================================ -->
+<!-- Ways to support the developer's work                           -->
+<!-- GitHub Sponsors + Buy Me a Coffee buttons                       -->
+<!-- ================================================================ -->
+
+## 💖 Support My Work
+
+If you find my projects helpful or would like to support my open-source contributions:
+
+<a href="https://github.com/sponsors/jagdish-pulpet" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-Support%20my%20work-ff69b4?logo=githubsponsors&style=for-the-badge" alt="Sponsor" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/jagdishpulpet" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?logo=buymeacoffee&style=for-the-badge" alt="Buy Me a Coffee" />
+</a>
+
+---
+
+<!-- ================================================================ -->
+<!-- 🏷️ FOOTER SECTION                                                -->
+<!-- ================================================================ -->
+<!-- Copyright notice, last updated timestamp, and GitHub template    -->
+<!-- GitHub's default profile README template remains commented below -->
+<!-- ================================================================ -->
+
 <!-- START: Footer -->
 <p align="center" style="color:#888;font-size:0.9em;">
   &copy; 2026 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Apr 27, 2026
 </p>
 <!-- END: Footer -->
+
+<!-- ================================================================ -->
+<!-- 📋 IMPLEMENTATION NOTES & FUTURE ENHANCEMENTS                    -->
+<!-- ================================================================ -->
+<!-- Below are implementation notes for features that require          -->
+<!-- a separate GitHub Pages site or cannot be implemented directly   -->
+<!-- in a GitHub profile README.                                      -->
+<!-- ================================================================ -->
+
+<!--
+  🎯 COMPLETED ENHANCEMENTS (Applied directly to this README):
+  ✅ Support/Sponsor button section (moved to after GitHub Stats)
+  ✅ Improved structured code comments throughout
+  ✅ Responsive Bio Summary (max-width: 90% for mobile)
+  ✅ Collapsible sections: Core Competencies, Education, Projects
+  ✅ Collapsible Key Features & Tech Stack within each project
+  ✅ API-based social icons (shields.io - removed local assets)
+-->
 
 <!--
 ## Hi there 👋
