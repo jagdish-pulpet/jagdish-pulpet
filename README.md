@@ -280,7 +280,26 @@ University of Mumbai
 
 <!-- START: GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdish-pulpet&theme=blueberry" alt="Top Languages" />
+  <!-- Top Languages (horizontal chart) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdish-pulpet&theme=blueberry&layout=compact" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <!-- GitHub Stats Card (overview) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jagdish-pulpet&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish-pulpet&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <!-- Profile Trophy (achievements) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jagdish-pulpet&theme=blueberry&no-frame=true&margin-h=10" alt="GitHub Profile Trophy" />
+</p>
+
+<!-- Visitor Traffic Badge -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jagdish-pulpet.jagdish-pulpet&style=flat&color=blue&label=Visitors" alt="Visitor count" />
+  &nbsp;&nbsp;
+  <img src="https://api.visitorbadge.io/api/visitors?path=jagdish-pulpet&labelColor=%231976D2&countColor=%23f79533&style=flat" alt="Profile Views" />
 </p>
 <!-- ========================= END: GitHub Stats Section ============================= -->
 
@@ -304,6 +323,48 @@ If you find my projects helpful or would like to support my open-source contribu
 <a href="https://www.buymeacoffee.com/jagdishpulpet" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?logo=buymeacoffee&style=for-the-badge" alt="Buy Me a Coffee" />
 </a>
+
+---
+
+<!-- ================================================================ -->
+<!-- 💬 INTERACTIVE Q&A SECTION                                       -->
+<!-- ================================================================ -->
+<!-- Frequently asked questions and ways to connect                  -->
+<!-- Includes GitHub visitor badge for traffic analytics             -->
+<!-- ================================================================ -->
+
+## 💬 Ask Me Anything
+
+Feel free to reach out with questions about blockchain development, NFT marketplaces, Web3 technologies, or collaboration opportunities!
+
+**📫 Best Ways to Reach Me:**
+- **Email:** jagdish.pulpett@gmail.com
+- **WhatsApp:** +91 91378 81027
+- **LinkedIn:** [linkedin.com/in/jagdish-pulpet](https://linkedin.com/in/jagdish-pulpet)
+- **GitHub:** [@jagdish-pulpet](https://github.com/jagdish-pulpet)
+
+**🎯 Topics I Can Help With:**
+- Smart contract development & security
+- NFT marketplace architecture
+- Full-stack Web3 application development
+- AI/ML integration in blockchain
+- Flutter mobile app development
+- Career advice in blockchain/Web3
+
+**🔧 Prefer opening a GitHub Issue?**  
+I'm active on GitHub and welcome technical discussions. Feel free to [open an issue](https://github.com/jagdish-pulpet/jagdish-pulpet/issues/new) on any of my repositories!
+
+---
+
+## 📊 GitHub Traffic
+
+<p align="center">
+  <!-- Visitor count badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jagdish-pulpet.jagdish-pulpet&style=flat&color=blue&label=Visitors" alt="Visitor count" />
+  &nbsp;&nbsp;
+  <!-- GitHub profile views -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=jagdish-pulpet&labelColor=%231976D2&countColor=%23f79533&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
