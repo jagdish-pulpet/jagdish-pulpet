@@ -81,8 +81,12 @@ A full-featured NFT marketplace revolutionizing digital art ownership and tradin
 
 </details>
 
-**Tech Stack:**
+<details>
+<summary>🛠️ Tech Stack</summary>
+
 `Next.js 14` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Prisma` `Solidity` `Hardhat` `Ethers.js` `Web3.js` `IPFS` `Genkit` `JWT` `Redis`
+
+</details>
 
 **Live Demo:** [artnft-marketplace.vercel.app](https://artnft-marketplace.vercel.app)  
 **GitHub:** [github.com/jagdish-pulpet/artnft](https://github.com/jagdish-pulpet/artnft)
@@ -107,8 +111,12 @@ A modern, cross-platform e-commerce application built with Flutter, delivering a
 
 </details>
 
-**Tech Stack:**
+<details>
+<summary>🛠️ Tech Stack</summary>
+
 `Flutter 3.x` `Dart` `Firebase` `Razorpay SDK` `GetX` `Dio` `Hive` `Google Maps` `Camera` `Image Picker`
+
+</details>
 
 **Live Demo:** [emartos.flutterflow.io](https://emartos.flutterflow.io)  
 **GitHub:** [codeberg.org/jpulpet/emartos](https://codeberg.org/jpulpet/emartos)
@@ -133,8 +141,12 @@ A full-stack media platform for creating and sharing short-form videos, similar 
 
 </details>
 
-**Tech Stack:**
-`Laravel 10` `PHP 8.2` `MySQL` `Redis` `Android Studio` `Java` `Kotlin` `FFmpeg` `AWS S3` `CloudFront` `FFmpeg` `WebRTC` ` Pusher`
+<details>
+<summary>🛠️ Tech Stack</summary>
+
+`Laravel 10` `PHP 8.2` `MySQL` `Redis` `Android Studio` `Java` `Kotlin` `FFmpeg` `AWS S3` `CloudFront` `FFmpeg` `WebRTC` `Pusher`
+
+</details>
 
 **GitHub:** [codeberg.org/jpulpet/tictac-android-java](https://codeberg.org/jpulpet/tictac-android-java)
 
@@ -158,8 +170,12 @@ A lightweight, browser-based photo editing tool offering quick filters, adjustme
 
 </details>
 
-**Tech Stack:**
+<details>
+<summary>🛠️ Tech Stack</summary>
+
 `HTML5 Canvas` `CSS3` `JavaScript ES6+` `Fabric.js` `CamanJS` `File API` `Blob` `Web Workers`
+
+</details>
 
 **Live Demo:** [jagdish-pulpet.github.io/snapedit](https://jagdish-pulpet.github.io/snapedit)
 
