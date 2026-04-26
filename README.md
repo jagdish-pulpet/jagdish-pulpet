@@ -267,16 +267,16 @@ University of Mumbai
 ---
 
 <!-- ================================================================ -->
-<!-- 📊 GITHUB STATS SECTION                                          -->
+<!-- 📊 GITHUB STATS SECTION (COLLAPSIBLE)                            -->
 <!-- ================================================================ -->
 <!-- Dynamic statistics from github-readme-stats.vercel.app API       -->
-<!-- Shows: Top languages, contribution stats, streak, and trophies   -->
+<!-- Shows: Top languages, contribution stats, streak, trophies,      -->
+<!-- and visitor traffic badges                                       -->
+<!-- Click heading to expand/collapse all stats                      -->
 <!-- ================================================================ -->
 
-<!-- ========================= START: GitHub Stats Section =========================== -->
-<!-- GitHub statistics, streaks, and trophies -->
-
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Stats</summary>
 
 <!-- START: GitHub Stats Cards -->
 <p align="center">
@@ -301,7 +301,40 @@ University of Mumbai
   &nbsp;&nbsp;
   <img src="https://api.visitorbadge.io/api/visitors?path=jagdish-pulpet&labelColor=%231976D2&countColor=%23f79533&style=flat" alt="Profile Views" />
 </p>
-<!-- ========================= END: GitHub Stats Section ============================= -->
+</details>
+
+---
+
+<!-- ================================================================ -->
+<!-- 💬 INTERACTIVE Q&A SECTION (COLLAPSIBLE)                         -->
+<!-- ================================================================ -->
+<!-- Frequently asked questions and ways to connect                  -->
+<!-- Click heading to expand/collapse Q&A content                     -->
+<!-- ================================================================ -->
+
+<details>
+<summary>💬 Ask Me Anything</summary>
+
+Feel free to reach out with questions about blockchain development, NFT marketplaces, Web3 technologies, or collaboration opportunities!
+
+**📫 Best Ways to Reach Me:**
+- **Email:** jagdish.pulpett@gmail.com
+- **WhatsApp:** +91 91378 81027
+- **LinkedIn:** [linkedin.com/in/jagdish-pulpet](https://linkedin.com/in/jagdish-pulpet)
+- **GitHub:** [@jagdish-pulpet](https://github.com/jagdish-pulpet)
+
+**🎯 Topics I Can Help With:**
+- Smart contract development & security
+- NFT marketplace architecture
+- Full-stack Web3 application development
+- AI/ML integration in blockchain
+- Flutter mobile app development
+- Career advice in blockchain/Web3
+
+**🔧 Prefer opening a GitHub Issue?**  
+I'm active on GitHub and welcome technical discussions. Feel free to [open an issue](https://github.com/jagdish-pulpet/jagdish-pulpet/issues/new) on any of my repositories!
+
+</details>
 
 ---
 
@@ -323,36 +356,6 @@ If you find my projects helpful or would like to support my open-source contribu
 <a href="https://www.buymeacoffee.com/jagdishpulpet" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?logo=buymeacoffee&style=for-the-badge" alt="Buy Me a Coffee" />
 </a>
-
----
-
-<!-- ================================================================ -->
-<!-- 💬 INTERACTIVE Q&A SECTION                                       -->
-<!-- ================================================================ -->
-<!-- Frequently asked questions and ways to connect                  -->
-<!-- GitHub traffic badges are in the GitHub Stats section above     -->
-<!-- ================================================================ -->
-
-## 💬 Ask Me Anything
-
-Feel free to reach out with questions about blockchain development, NFT marketplaces, Web3 technologies, or collaboration opportunities!
-
-**📫 Best Ways to Reach Me:**
-- **Email:** jagdish.pulpett@gmail.com
-- **WhatsApp:** +91 91378 81027
-- **LinkedIn:** [linkedin.com/in/jagdish-pulpet](https://linkedin.com/in/jagdish-pulpet)
-- **GitHub:** [@jagdish-pulpet](https://github.com/jagdish-pulpet)
-
-**🎯 Topics I Can Help With:**
-- Smart contract development & security
-- NFT marketplace architecture
-- Full-stack Web3 application development
-- AI/ML integration in blockchain
-- Flutter mobile app development
-- Career advice in blockchain/Web3
-
-**🔧 Prefer opening a GitHub Issue?**  
-I'm active on GitHub and welcome technical discussions. Feel free to [open an issue](https://github.com/jagdish-pulpet/jagdish-pulpet/issues/new) on any of my repositories!
 
 ---
 
@@ -379,12 +382,14 @@ I'm active on GitHub and welcome technical discussions. Feel free to [open an is
 
 <!--
   🎯 COMPLETED ENHANCEMENTS (Applied directly to this README):
-  ✅ Support/Sponsor button section (moved to after GitHub Stats)
+  ✅ Support/Sponsor button section (below GitHub Stats)
   ✅ Improved structured code comments throughout
   ✅ Responsive Bio Summary (max-width: 90% for mobile)
-  ✅ Collapsible sections: Core Competencies, Education, Projects
+  ✅ Collapsible sections: Core Competencies, Education, Projects, GitHub Stats, Q&A
   ✅ Collapsible Key Features & Tech Stack within each project
   ✅ API-based social icons (shields.io - removed local assets)
+  ✅ Interactive Q&A section with contact methods and expertise topics
+  ✅ GitHub Traffic badges (visitor count + profile views)
 -->
 
 <!--
