@@ -116,19 +116,34 @@
 
 <!-- ========================= START: Core Competencies Section ====================== -->
 <!-- Highlights of main areas of expertise -->
-## 🏆 Core Competencies
+<details>
+<summary>🏆 Core Competencies</summary>
 
-- **Digital Art Curation**: Expertise in curating and showcasing diverse digital artworks, ensuring a rich and engaging experience for users exploring the NFT space.
-- **User-Centric Design**: Focusing on user needs and preferences to create an intuitive interface that simplifies the process of discovering, creating, and trading NFTs.
-- **Blockchain Proficiency**: In-depth knowledge of blockchain technology, enabling secure transactions and transparent ownership verification for digital assets.
-- **NFT Minting & Management**: Facilitating seamless minting processes for artists, allowing them to easily create and list their NFTs while managing their digital portfolios.
-- **Community Building**: Cultivating a vibrant community of artists, collectors, and enthusiasts, fostering collaboration and interaction through forums, events, and social features.
-- **Cross-Platform Development**: Developing a cohesive experience across web and mobile platforms, ensuring users can access the marketplace anytime, anywhere.
-- **Data-Driven Insights**: Utilizing analytics to track user behavior and preferences, driving continuous improvement and personalized experiences within the marketplace.
-- **AI-Enhanced Features**: Integrating AI tools to provide personalized recommendations, enhance search capabilities, and improve user engagement through smart interactions.
-- **Responsive & Adaptive Design**: Ensuring the platform is fully responsive, providing an optimal viewing experience across a wide range of devices and screen sizes.
-- **Innovative Marketing Strategies**: Implementing creative marketing campaigns to promote artists and their works, driving traffic and engagement within the marketplace.
+#### **Blockchain & Web3 Development**
+- **Smart Contract Development**: Designing and deploying secure, gas-efficient smart contracts on Ethereum, Polygon, and other EVM-compatible networks using Solidity and Hardhat.
+- **DApp Architecture**: Building decentralized applications with Web3.js, Ethers.js, and React/Next.js for seamless user interactions with blockchain networks.
+- **Token Engineering**: Creating ERC-20, ERC-721, and ERC-1155 tokens with custom utilities, staking mechanisms, and governance features.
+- **DeFi Protocol Integration**: Implementing wallets, swaps, liquidity pools, and yield farming using Chainlink oracles and Uniswap V2/V3 protocols.
 
+#### **Full-Stack Engineering**
+- **Frontend Mastery**: Developing responsive, accessible UIs with React, TypeScript, Tailwind CSS, and modern state management (Redux, Zustand).
+- **Backend Scalability**: Designing RESTful and GraphQL APIs with Node.js, Express, and PostgreSQL; implementing authentication, caching, and real-time features.
+- **Database Architecture**: Optimizing PostgreSQL with indexing, partitioning, and replication; designing schemas for high-throughput blockchain data.
+- **DevOps & Deployment**: Automating CI/CD pipelines with GitHub Actions; containerizing applications with Docker; deploying to AWS, Vercel, and Railway.
+
+#### **AI & Machine Learning Integration**
+- **Generative AI**: Leveraging LLMs (GPT, Claude) and diffusion models for content creation, code generation, and intelligent automation.
+- **Computer Vision**: Implementing image recognition, object detection, and facial analysis for NFT verification and media enrichment.
+- **Recommendation Systems**: Building collaborative and content-based filtering models to personalize user experiences and drive engagement.
+- **AI-Powered Analytics**: Using predictive modeling and clustering to extract insights from user behavior and market trends.
+
+#### **Product & Design Leadership**
+- **User Research & Testing**: Conducting interviews, usability tests, and A/B experiments to validate designs and prioritize features.
+- **Design Systems**: Creating reusable component libraries and style guides with Figma and Storybook for consistency across platforms.
+- **Agile Project Management**: Leading Scrum/Kanban teams with Jira, Notion, and Slack; delivering MVP features on schedule and budget.
+- **Growth & Marketing**: Developing data-driven strategies for user acquisition, retention, and monetization through SEO, content, and partnerships.
+
+</details>
 <!-- ========================= END: Core Competencies Section ======================== -->
 
 
