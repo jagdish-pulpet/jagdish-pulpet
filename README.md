@@ -102,13 +102,87 @@
 <!-- Notable projects with brief descriptions and links -->
 ## 🚀 Projects
 
-<!-- START: Projects Table -->
-| Project Name         | Description                                               | Technologies                     | Link         | Last Commit Status |
-|----------------------|-----------------------------------------------------------|----------------------------------|--------------|--------------------|
-| Art NFT              | A platform for creating, buying, and selling digital art NFTs | Next.js, Node.js, MySQL         | [GitHub](https://github.com/jagdish-pulpet/artnft) | ![Last Commit](https://img.shields.io/github/last-commit/jagdish-pulpet/artnft) |      |
-| Emartos              | A modern, feature-rich e-commerce application built with Flutter, designed to provide a seamless shopping experience across multiple platforms. | Flutter, Dart                    | [Codeberg](https://codeberg.org/jpulpet/emartos) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
-| TicTak          | Full stack  media app for creating and sharing short videos built using Laravel Admin, Android native devices,  where users can enjoy the classic experience. | Laravel, Java, Android Studio, MySQL             | [Codeberg](https://codeberg.org/jpulpet/tictac-android-java) | ![Last Commit](https://img.shields.io/badge/last%20commit-unknown-orange) |
-| SnapEdit          | Online tool for quick photo editing and filters     | HTML5, CSS3, JavaScript   | [View Demo](https://jagdish-pulpet.github.io/snapedit)       |
+<!-- START: Project Cards -->
+### **🖼️ ArtNFT Marketplace**
+A full-featured NFT marketplace revolutionizing digital art ownership and trading. Artists can mint, showcase, and sell their creations as NFTs, while collectors discover and acquire unique digital assets in a secure, decentralized environment.
+
+**Key Features:**
+- **NFT Minting**: Upload artworks, add metadata, and mint ERC-721/ERC-1155 tokens with customizable royalties
+- **Auction System**: Real-time bidding, buy-now options, and timed auctions with WebSocket updates
+- **Wallet Integration**: MetaMask, WalletConnect, and Coinbase Wallet support for seamless transactions
+- **IPFS Storage**: Decentralized storage for artwork files using Pinata and Filecoin
+- **AI-Powered Curation**: Genkit-powered recommendation engine suggesting artworks based on user preferences
+- **Creator Dashboard**: Analytics, portfolio management, and sales tracking for artists
+- **Social Features**: Follow creators, comment on artworks, and build a collector profile
+
+**Tech Stack:**
+`Next.js 14` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Prisma` `Solidity` `Hardhat` `Ethers.js` `Web3.js` `IPFS` `Genkit` `JWT` `Redis`
+
+**Live Demo:** [artnft-marketplace.vercel.app](https://artnft-marketplace.vercel.app)  
+**GitHub:** [github.com/jagdish-pulpet/artnft](https://github.com/jagdish-pulpet/artnft)
+
+---
+
+### **📱 Emartos E-Commerce**
+A modern, cross-platform e-commerce application built with Flutter, delivering a seamless shopping experience on iOS, Android, and Web. Features real-time inventory, secure payments, and a beautiful, intuitive UI.
+
+**Key Features:**
+- **Multi-Platform Support**: Single codebase for mobile (iOS/Android) and web with responsive design
+- **Real-Time Inventory**: Live stock updates and low-stock alerts using Firebase Realtime Database
+- **Payment Gateway**: Razorpay integration for UPI, cards, and wallet payments
+- **Advanced Search**: Filter products by category, price, rating, and attributes with instant results
+- **User Accounts**: Profile management, order history, wishlist, and address book
+- **Push Notifications**: Firebase Cloud Messaging for order updates and promotions
+- **Admin Panel**: Product management, order tracking, sales analytics, and customer insights
+- **Dark Mode**: System-aware theme switching with persistent user preference
+
+**Tech Stack:**
+`Flutter 3.x` `Dart` `Firebase` `Razorpay SDK` `GetX` `Dio` `Hive` `Google Maps` `Camera` `Image Picker`
+
+**Live Demo:** [emartos.flutterflow.io](https://emartos.flutterflow.io)  
+**GitHub:** [codeberg.org/jpulpet/emartos](https://codeberg.org/jpulpet/emartos)
+
+---
+
+### **🎬 TicTak - Short Video Platform**
+A full-stack media platform for creating and sharing short-form videos, similar to TikTok. Built with Laravel Admin backend and native Android app, enabling users to create, edit, and share engaging video content.
+
+**Key Features:**
+- **Video Recording**: Native Android camera integration with filters, effects, and AR stickers
+- **Video Editing**: Trim, split, merge, add music, text overlays, and transitions
+- **Social Feed**: Infinite scroll, like/comment/share, and personalized content recommendations
+- **User Authentication**: OAuth, phone verification, and social login (Google, Facebook)
+- **Content Discovery**: Trending hashtags, challenges, and category-based exploration
+- **Live Streaming**: Real-time broadcasting with chat, gifts, and viewer count
+- **Admin Dashboard**: Laravel Nova for content moderation, user management, and analytics
+- **CDN Integration**: CloudFront for fast video delivery worldwide
+
+**Tech Stack:**
+`Laravel 10` `PHP 8.2` `MySQL` `Redis` `Android Studio` `Java` `Kotlin` `FFmpeg` `AWS S3` `CloudFront` `FFmpeg` `WebRTC` ` Pusher`
+
+**GitHub:** [codeberg.org/jpulpet/tictac-android-java](https://codeberg.org/jpulpet/tictac-android-java)
+
+---
+
+### **🎨 SnapEdit - Online Photo Editor**
+A lightweight, browser-based photo editing tool offering quick filters, adjustments, and transformations without requiring software installation. Perfect for social media creators and casual users.
+
+**Key Features:**
+- **One-Click Filters**: 50+ presets (vintage, noir, vibrant, cinematic) with adjustable intensity
+- **Basic Adjustments**: Brightness, contrast, saturation, exposure, highlights, shadows, and vignette
+- **Transform Tools**: Crop, rotate, flip, and resize with aspect ratio presets for social media
+- **Text Overlay**: Add headings, subtitles, and captions with font customization and positioning
+- **Stickers & Shapes**: Library of decorative elements and geometric shapes
+- **Undo/Redo**: Full history stack for non-destructive editing
+- **Export Options**: Download as JPEG, PNG, or WebP with quality control (up to 4K)
+- **No Upload Required**: All processing done client-side for privacy and speed
+
+**Tech Stack:**
+`HTML5 Canvas` `CSS3` `JavaScript ES6+` `Fabric.js` `CamanJS` `File API` `Blob` `Web Workers`
+
+**Live Demo:** [jagdish-pulpet.github.io/snapedit](https://jagdish-pulpet.github.io/snapedit)
+
+---
 
 <!-- ========================= END: Projects Section ================================ -->
 
