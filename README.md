@@ -159,21 +159,7 @@ University of Mumbai
 
 ---
 
-<!-- ========================= START: Contact Section ================================ -->
-<!-- Contact information and ways to connect -->
-## 📬 Contact
 
-<!-- START: Social Links -->
-<!-- START: Contact Info -->
-<p align="center">
-  <a href="mailto:jagdish.pulpett@gmail.com">
-    <img src="assets/gmail.png" alt="Email" width="20" style="vertical-align:middle;"> jagdish.pulpett@gmail.com
-  </a> <br>
-  <img src="assets/phone.png" alt="Phone" width="18" style="vertical-align:middle;"> +91 91378 81027
-</p>
-<!-- ========================= END: Contact Section ================================= -->
-
----
 
 <!-- START: Footer -->
 <p align="center" style="color:#888;font-size:0.9em;">
