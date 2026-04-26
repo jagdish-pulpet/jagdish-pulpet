@@ -151,11 +151,14 @@
 
 <!-- ========================= START: Education Section ============================== -->
 <!-- Academic background and qualifications -->
-## 🎓 Education
+<details>
+<summary>🎓 Education</summary>
 
 **Bachelor of Engineering**  
 Dr. D Y Patil's RAIT, Nerul, Navi Mumbai  
 University of Mumbai
+
+</details>
 <!-- ========================= END: Education Section ================================ -->
 
 ---
