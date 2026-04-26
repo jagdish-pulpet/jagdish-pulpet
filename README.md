@@ -106,7 +106,9 @@
 ### **🖼️ ArtNFT Marketplace**
 A full-featured NFT marketplace revolutionizing digital art ownership and trading. Artists can mint, showcase, and sell their creations as NFTs, while collectors discover and acquire unique digital assets in a secure, decentralized environment.
 
-**Key Features:**
+<details>
+<summary>✨ Key Features</summary>
+
 - **NFT Minting**: Upload artworks, add metadata, and mint ERC-721/ERC-1155 tokens with customizable royalties
 - **Auction System**: Real-time bidding, buy-now options, and timed auctions with WebSocket updates
 - **Wallet Integration**: MetaMask, WalletConnect, and Coinbase Wallet support for seamless transactions
@@ -114,6 +116,8 @@ A full-featured NFT marketplace revolutionizing digital art ownership and tradin
 - **AI-Powered Curation**: Genkit-powered recommendation engine suggesting artworks based on user preferences
 - **Creator Dashboard**: Analytics, portfolio management, and sales tracking for artists
 - **Social Features**: Follow creators, comment on artworks, and build a collector profile
+
+</details>
 
 **Tech Stack:**
 `Next.js 14` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Prisma` `Solidity` `Hardhat` `Ethers.js` `Web3.js` `IPFS` `Genkit` `JWT` `Redis`
@@ -126,7 +130,9 @@ A full-featured NFT marketplace revolutionizing digital art ownership and tradin
 ### **📱 Emartos E-Commerce**
 A modern, cross-platform e-commerce application built with Flutter, delivering a seamless shopping experience on iOS, Android, and Web. Features real-time inventory, secure payments, and a beautiful, intuitive UI.
 
-**Key Features:**
+<details>
+<summary>✨ Key Features</summary>
+
 - **Multi-Platform Support**: Single codebase for mobile (iOS/Android) and web with responsive design
 - **Real-Time Inventory**: Live stock updates and low-stock alerts using Firebase Realtime Database
 - **Payment Gateway**: Razorpay integration for UPI, cards, and wallet payments
@@ -135,6 +141,8 @@ A modern, cross-platform e-commerce application built with Flutter, delivering a
 - **Push Notifications**: Firebase Cloud Messaging for order updates and promotions
 - **Admin Panel**: Product management, order tracking, sales analytics, and customer insights
 - **Dark Mode**: System-aware theme switching with persistent user preference
+
+</details>
 
 **Tech Stack:**
 `Flutter 3.x` `Dart` `Firebase` `Razorpay SDK` `GetX` `Dio` `Hive` `Google Maps` `Camera` `Image Picker`
@@ -147,7 +155,9 @@ A modern, cross-platform e-commerce application built with Flutter, delivering a
 ### **🎬 TicTak - Short Video Platform**
 A full-stack media platform for creating and sharing short-form videos, similar to TikTok. Built with Laravel Admin backend and native Android app, enabling users to create, edit, and share engaging video content.
 
-**Key Features:**
+<details>
+<summary>✨ Key Features</summary>
+
 - **Video Recording**: Native Android camera integration with filters, effects, and AR stickers
 - **Video Editing**: Trim, split, merge, add music, text overlays, and transitions
 - **Social Feed**: Infinite scroll, like/comment/share, and personalized content recommendations
@@ -156,6 +166,8 @@ A full-stack media platform for creating and sharing short-form videos, similar 
 - **Live Streaming**: Real-time broadcasting with chat, gifts, and viewer count
 - **Admin Dashboard**: Laravel Nova for content moderation, user management, and analytics
 - **CDN Integration**: CloudFront for fast video delivery worldwide
+
+</details>
 
 **Tech Stack:**
 `Laravel 10` `PHP 8.2` `MySQL` `Redis` `Android Studio` `Java` `Kotlin` `FFmpeg` `AWS S3` `CloudFront` `FFmpeg` `WebRTC` ` Pusher`
@@ -167,7 +179,9 @@ A full-stack media platform for creating and sharing short-form videos, similar 
 ### **🎨 SnapEdit - Online Photo Editor**
 A lightweight, browser-based photo editing tool offering quick filters, adjustments, and transformations without requiring software installation. Perfect for social media creators and casual users.
 
-**Key Features:**
+<details>
+<summary>✨ Key Features</summary>
+
 - **One-Click Filters**: 50+ presets (vintage, noir, vibrant, cinematic) with adjustable intensity
 - **Basic Adjustments**: Brightness, contrast, saturation, exposure, highlights, shadows, and vignette
 - **Transform Tools**: Crop, rotate, flip, and resize with aspect ratio presets for social media
@@ -176,6 +190,8 @@ A lightweight, browser-based photo editing tool offering quick filters, adjustme
 - **Undo/Redo**: Full history stack for non-destructive editing
 - **Export Options**: Download as JPEG, PNG, or WebP with quality control (up to 4K)
 - **No Upload Required**: All processing done client-side for privacy and speed
+
+</details>
 
 **Tech Stack:**
 `HTML5 Canvas` `CSS3` `JavaScript ES6+` `Fabric.js` `CamanJS` `File API` `Blob` `Web Workers`
