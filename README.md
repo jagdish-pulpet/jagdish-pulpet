@@ -21,24 +21,24 @@
 
 <!-- START: Social Links -->
 <p align="center">
-  <a href="mailto:jagdish.pulpett@gmail.com">
-    <img src="assets/gmail.png" alt="Email" width="28" style="vertical-align:middle;">
+  <a href="mailto:jagdish.pulpett@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jagdish.pulpett%40gmail.com-red?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/919137881027" target="_blank">
-    <img src="assets/whatsapp.png" alt="WhatsApp" width="28" style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/WhatsApp-9137881027-green?logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jagdish-pulpet" target="_blank">
-    <img src="assets/linkedin.png" alt="LinkedIn" width="28" style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/LinkedIn-jagdish--pulpet-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/jagdish-pulpet" target="_blank">
-    <img src="assets/github.png" alt="GitHub" width="28" style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/GitHub-jagdish--pulpet-black?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://your-portfolio-demo.com" target="_blank">
-    <img src="assets/portfolio.png" alt="Portfolio" width="28" style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
