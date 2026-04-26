@@ -330,7 +330,7 @@ If you find my projects helpful or would like to support my open-source contribu
 <!-- 💬 INTERACTIVE Q&A SECTION                                       -->
 <!-- ================================================================ -->
 <!-- Frequently asked questions and ways to connect                  -->
-<!-- Includes GitHub visitor badge for traffic analytics             -->
+<!-- GitHub traffic badges are in the GitHub Stats section above     -->
 <!-- ================================================================ -->
 
 ## 💬 Ask Me Anything
@@ -353,18 +353,6 @@ Feel free to reach out with questions about blockchain development, NFT marketpl
 
 **🔧 Prefer opening a GitHub Issue?**  
 I'm active on GitHub and welcome technical discussions. Feel free to [open an issue](https://github.com/jagdish-pulpet/jagdish-pulpet/issues/new) on any of my repositories!
-
----
-
-## 📊 GitHub Traffic
-
-<p align="center">
-  <!-- Visitor count badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jagdish-pulpet.jagdish-pulpet&style=flat&color=blue&label=Visitors" alt="Visitor count" />
-  &nbsp;&nbsp;
-  <!-- GitHub profile views -->
-  <img src="https://api.visitorbadge.io/api/visitors?path=jagdish-pulpet&labelColor=%231976D2&countColor=%23f79533&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
