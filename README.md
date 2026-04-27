@@ -15,7 +15,7 @@
 <!-- Role & Expertise Badges -->
 <p align="center">
     <img src="https://img.shields.io/badge/Web3%20Developer-23272F?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 Developer" />
-    <img src="https://img.shields.io/badge/Blockchain%20Developer-23272F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer" />
+    <img src="https://img.shields.io/badge/AI/ML%20Engineer-23272F?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Engineer" />
 </p>
 
 <!-- Geographic Location Badge -->
@@ -54,10 +54,10 @@
 <!-- START: Bio Summary -->
 <p align="center" style="max-width:90%; margin: 0 auto; padding: 0 1rem;">
   <i>
-    Full-stack blockchain developer and Web3 enthusiast specializing in NFT marketplace development, decentralized applications, and AI-integrated solutions.<br><br>
-    Currently architecting <b>ArtNFT Marketplace</b> — a comprehensive NFT platform built on Ethereum and Polygon, featuring smart contract integration, real-time auctions, and AI-powered recommendation engines.<br><br>
-    Passionate about bridging the gap between traditional web technologies and decentralized systems, creating seamless user experiences that make blockchain technology accessible to creators and collectors worldwide.<br><br>
-    Leveraging modern frameworks like Next.js, Node.js, and PostgreSQL, combined with AI tools such as Genkit and LLMs, to build scalable, performant, and intelligent applications that redefine digital ownership and community engagement.
+    AI/ML Engineer and full-stack developer specializing in intelligent systems, computer vision, and generative AI integrations. Focused on building scalable machine learning pipelines, recommendation systems, and AI-powered applications that bridge the gap between data science and production.<br><br>
+    Currently developing <b>ArtNFT Marketplace</b> — a next-gen NFT platform featuring AI-powered artwork curation, intelligent recommendation engines using Genkit and LLMs, and computer vision for artwork verification.<br><br>
+    Passionate about leveraging machine learning to solve real-world problems, from predictive analytics to natural language processing, while maintaining robust software engineering practices.<br><br>
+    Combining expertise in Python, TensorFlow, PyTorch, and cloud AI services with full-stack development in Next.js, Node.js, and PostgreSQL to deliver end-to-end AI solutions that drive innovation and user engagement.
   </i>
 </p>
 <!-- END: Bio Summary -->
@@ -106,33 +106,33 @@ A full-featured NFT marketplace revolutionizing digital art ownership and tradin
 
 ---
 
-### **📱 Emartos E-Commerce**
+### **🔥 Firecrawl - AI-Powered Web Scraping Platform**
 
-A modern, cross-platform e-commerce application built with Flutter, delivering a seamless shopping experience on iOS, Android, and Web. Features real-time inventory, secure payments, and a beautiful, intuitive UI.
+An intelligent web scraping and data extraction platform that transforms any website into structured, clean data using AI. Built to handle modern JavaScript-heavy sites, bypass anti-bot measures, and deliver consistent, production-ready datasets.
 
 <details>
 <summary>✨ Key Features</summary>
 
-- **Multi-Platform Support**: Single codebase for mobile (iOS/Android) and web with responsive design
-- **Real-Time Inventory**: Live stock updates and low-stock alerts using Firebase Realtime Database
-- **Payment Gateway**: Razorpay integration for UPI, cards, and wallet payments
-- **Advanced Search**: Filter products by category, price, rating, and attributes with instant results
-- **User Accounts**: Profile management, order history, wishlist, and address book
-- **Push Notifications**: Firebase Cloud Messaging for order updates and promotions
-- **Admin Panel**: Product management, order tracking, sales analytics, and customer insights
-- **Dark Mode**: System-aware theme switching with persistent user preference
+- **Smart Extraction**: AI-powered data extraction that adapts to website structure changes without manual selector updates
+- **JavaScript Rendering**: Full browser automation with Playwright for SPA/React/Vue applications
+- ** Anti-Bot Bypass**: Intelligent rotation, CAPTCHA solving, and fingerprint management
+- **Batch Processing**: Scalable crawling with rate limiting, retries, and distributed execution
+- **Data Cleaning**: Automatic deduplication, normalization, and schema validation
+- **API-First Design**: RESTful endpoints, webhooks, and SDKs (Python, Node.js, Go)
+- **Monitoring Dashboard**: Real-time crawl health, success rates, and error tracking
+- **Export Options**: JSON, CSV, XML, or direct pipeline to databases/data warehouses
 
 </details>
 
 <details>
 <summary>🛠️ Tech Stack</summary>
 
-`Flutter 3.x` `Dart` `Firebase` `Razorpay SDK` `GetX` `Dio` `Hive` `Google Maps` `Camera` `Image Picker`
+`Python` `FastAPI` `Playwright` `Scrapy` `Redis` `PostgreSQL` `OpenAI GPT-4 Vision` `Docker` `Kubernetes` `Celery` `Prometheus` `Grafana`
 
 </details>
 
-**Live Demo:** [emartos.flutterflow.io](https://emartos.flutterflow.io)  
-**GitHub:** [codeberg.org/jpulpet/emartos](https://codeberg.org/jpulpet/emartos)
+**Live Demo:** [firecrawl.dev](https://firecrawl.dev)  
+**GitHub:** [github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 
 ---
 
@@ -203,26 +203,28 @@ A lightweight, browser-based photo editing tool offering quick filters, adjustme
 <details>
 <summary>🏆 Core Competencies</summary>
 
+#### **AI & Machine Learning Engineering**
+
+- **Generative AI**: Leveraging LLMs (GPT, Claude) and diffusion models for content creation, code generation, and intelligent automation.
+- **Computer Vision**: Implementing image recognition, object detection, and facial analysis for artwork verification and media enrichment.
+- **Recommendation Systems**: Building collaborative and content-based filtering models to personalize user experiences and drive engagement.
+- **AI-Powered Analytics**: Using predictive modeling and clustering to extract insights from user behavior and market trends.
+- **MLOps & Deployment**: Containerizing ML models with Docker, serving via FastAPI/Flask, and deploying on cloud platforms (AWS SageMaker, GCP AI Platform).
+- **Model Optimization**: Implementing model quantization, pruning, and distillation for efficient inference in production environments.
+
+#### **Full-Stack Engineering**
+
+- **Frontend Mastery**: Developing responsive, accessible UIs with React, TypeScript, Tailwind CSS, and modern state management (Redux, Zustand).
+- **Backend Scalability**: Designing RESTful and GraphQL APIs with Node.js, Express, and Python (FastAPI/Flask); implementing authentication, caching, and real-time features.
+- **Database Architecture**: Optimizing PostgreSQL, MongoDB, and vector databases (Pinecone, Weaviate) for ML workloads and high-throughput applications.
+- **DevOps & Deployment**: Automating CI/CD pipelines with GitHub Actions; containerizing applications with Docker; deploying to AWS, Vercel, and Railway.
+
 #### **Blockchain & Web3 Development**
 
 - **Smart Contract Development**: Designing and deploying secure, gas-efficient smart contracts on Ethereum, Polygon, and other EVM-compatible networks using Solidity and Hardhat.
 - **DApp Architecture**: Building decentralized applications with Web3.js, Ethers.js, and React/Next.js for seamless user interactions with blockchain networks.
 - **Token Engineering**: Creating ERC-20, ERC-721, and ERC-1155 tokens with custom utilities, staking mechanisms, and governance features.
-- **DeFi Protocol Integration**: Implementing wallets, swaps, liquidity pools, and yield farming using Chainlink oracles and Uniswap V2/V3 protocols.
-
-#### **Full-Stack Engineering**
-
-- **Frontend Mastery**: Developing responsive, accessible UIs with React, TypeScript, Tailwind CSS, and modern state management (Redux, Zustand).
-- **Backend Scalability**: Designing RESTful and GraphQL APIs with Node.js, Express, and PostgreSQL; implementing authentication, caching, and real-time features.
-- **Database Architecture**: Optimizing PostgreSQL with indexing, partitioning, and replication; designing schemas for high-throughput blockchain data.
-- **DevOps & Deployment**: Automating CI/CD pipelines with GitHub Actions; containerizing applications with Docker; deploying to AWS, Vercel, and Railway.
-
-#### **AI & Machine Learning Integration**
-
-- **Generative AI**: Leveraging LLMs (GPT, Claude) and diffusion models for content creation, code generation, and intelligent automation.
-- **Computer Vision**: Implementing image recognition, object detection, and facial analysis for NFT verification and media enrichment.
-- **Recommendation Systems**: Building collaborative and content-based filtering models to personalize user experiences and drive engagement.
-- **AI-Powered Analytics**: Using predictive modeling and clustering to extract insights from user behavior and market trends.
+- **AI-Blockchain Integration**: Implementing on-chain AI inference, decentralized ML model marketplaces, and AI-enhanced NFT utilities.
 
 #### **Product & Design Leadership**
 
@@ -315,7 +317,7 @@ University of Mumbai
 <details>
 <summary>💬 Ask Me Anything</summary>
 
-Feel free to reach out with questions about blockchain development, NFT marketplaces, Web3 technologies, or collaboration opportunities!
+Feel free to reach out with questions about AI/ML engineering, machine learning systems, or collaboration opportunities!
 
 **📫 Best Ways to Reach Me:**
 - **Email:** jagdish.pulpett@gmail.com
@@ -323,13 +325,14 @@ Feel free to reach out with questions about blockchain development, NFT marketpl
 - **LinkedIn:** [linkedin.com/in/jagdish-pulpet](https://linkedin.com/in/jagdish-pulpet)
 - **GitHub:** [@jagdish-pulpet](https://github.com/jagdish-pulpet)
 
-**🎯 Topics I Can Help With:**
-- Smart contract development & security
-- NFT marketplace architecture
-- Full-stack Web3 application development
-- AI/ML integration in blockchain
-- Flutter mobile app development
-- Career advice in blockchain/Web3
+  **🎯 Topics I Can Help With:**
+  - Machine learning model development & deployment (TensorFlow, PyTorch, scikit-learn)
+  - Generative AI & LLM integrations (GPT, Claude, embeddings, fine-tuning)
+  - Computer vision & NLP applications (image recognition, text analysis)
+  - Recommendation systems & predictive analytics
+  - AI-powered product architecture & MLOps
+  - Full-stack development with AI integrations (Next.js, Node.js, Python)
+  - Career advice in AI/ML and data science
 
 **🔧 Prefer opening a GitHub Issue?**  
 I'm active on GitHub and welcome technical discussions. Feel free to [open an issue](https://github.com/jagdish-pulpet/jagdish-pulpet/issues/new) on any of my repositories!
