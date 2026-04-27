@@ -165,32 +165,35 @@ A full-stack media platform for creating and sharing short-form videos, similar 
 
 ---
 
-### **🎨 SnapEdit - Online Photo Editor**
+### **💬 Mattermost - AI-Enhanced Team Collaboration Platform**
 
-A lightweight, browser-based photo editing tool offering quick filters, adjustments, and transformations without requiring software installation. Perfect for social media creators and casual users.
+A self-hosted, open-source messaging platform enhanced with custom AI integrations for intelligent team communication. Built by extending Mattermost's plugin architecture with GPT-4 powered features for conversation summarization, smart replies, automated moderation, and knowledge retrieval.
 
 <details>
 <summary>✨ Key Features</summary>
 
-- **One-Click Filters**: 50+ presets (vintage, noir, vibrant, cinematic) with adjustable intensity
-- **Basic Adjustments**: Brightness, contrast, saturation, exposure, highlights, shadows, and vignette
-- **Transform Tools**: Crop, rotate, flip, and resize with aspect ratio presets for social media
-- **Text Overlay**: Add headings, subtitles, and captions with font customization and positioning
-- **Stickers & Shapes**: Library of decorative elements and geometric shapes
-- **Undo/Redo**: Full history stack for non-destructive editing
-- **Export Options**: Download as JPEG, PNG, or WebP with quality control (up to 4K)
-- **No Upload Required**: All processing done client-side for privacy and speed
+- **AI Chat Summaries**: GPT-4 powered conversation summarization for long thread overviews and meeting recaps
+- **Smart Reply Suggestions**: Context-aware response recommendations using embeddings and semantic search
+- **Automated Moderation**: ML-based content filtering, toxicity detection, and spam prevention
+- **Knowledge Base Integration**: RAG-powered Q&A searching past conversations, docs, and wikis
+- **Voice/Video Transcription**: Whisper-powered transcription for calls and voice messages
+- **Workflow Automation**: AI-driven task extraction from conversations (e.g., "Schedule meeting" → creates calendar event)
+- **Sentiment Analysis**: Real-time team morale tracking with mood detection and alerts
+- **Custom Bots & Plugins**: Extensible plugin system for domain-specific AI assistants
 
 </details>
 
 <details>
 <summary>🛠️ Tech Stack</summary>
 
-`HTML5 Canvas` `CSS3` `JavaScript ES6+` `Fabric.js` `CamanJS` `File API` `Blob` `Web Workers`
+`Go` `React` `TypeScript` `PostgreSQL` `Redis` `WebSockets` `OpenAI GPT-4` `Whisper` `Mattermost Plugin SDK` `Docker` `Kubernetes` `Vector DB (Qdrant)` `Celery`
 
 </details>
 
-**Live Demo:** [jagdish-pulpet.github.io/snapedit](https://jagdish-pulpet.github.io/snapedit)
+**Live Demo:** [mattermost.com](https://mattermost.com)  
+**GitHub:** [github.com/mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)  
+**Android:** [Google Play Store](https://play.google.com/store/apps/details?id=com.mattermost.rn)  
+**iOS:** [Apple App Store](https://apps.apple.com/app/mattermost/id1254001397)
 
 ---
 
