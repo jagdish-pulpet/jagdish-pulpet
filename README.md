@@ -298,16 +298,9 @@ University of Mumbai
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish-pulpet&theme=blueberry&hide_border=true" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <!-- Profile Trophy (achievements) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jagdish-pulpet&theme=blueberry&no-frame=true&margin-h=10" alt="GitHub Profile Trophy" />
-</p>
-
-<!-- Visitor Traffic Badge -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jagdish-pulpet.jagdish-pulpet&style=flat&color=blue&label=Visitors" alt="Visitor count" />
-  &nbsp;&nbsp;
-  <img src="https://api.visitorbadge.io/api/visitors?path=jagdish-pulpet&labelColor=%231976D2&countColor=%23f79533&style=flat" alt="Profile Views" />
-</p>
+   <!-- Profile Trophy (achievements) -->
+   <img src="https://github-profile-trophy.vercel.app/?username=jagdish-pulpet&theme=blueberry&no-frame=true&margin-h=10" alt="GitHub Profile Trophy" />
+ </p>
 </details>
 
 ---
@@ -325,6 +318,7 @@ University of Mumbai
 Feel free to reach out with questions about AI/ML engineering, machine learning systems, or collaboration opportunities!
 
 **📫 Best Ways to Reach Me:**
+
 - **Email:** jagdish.pulpett@gmail.com
 - **WhatsApp:** +91 91378 81027
 - **LinkedIn:** [linkedin.com/in/jagdish-pulpet](https://linkedin.com/in/jagdish-pulpet)
@@ -377,6 +371,11 @@ If you find my projects helpful or would like to support my open-source contribu
 <!-- START: Footer -->
 <p align="center" style="color:#888;font-size:0.9em;">
   &copy; 2026 Jagdish Pulpet &nbsp;|&nbsp; Last updated: Apr 27, 2026
+</p>
+
+<!-- Visitor Traffic Badges -->
+<p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=jagdish-pulpet&labelColor=%231976D2&countColor=%23f79533&style=flat" alt="Visitor count" />
 </p>
 <!-- END: Footer -->
 
