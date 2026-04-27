@@ -136,32 +136,34 @@ An intelligent web scraping and data extraction platform that transforms any web
 
 ---
 
-### **🎬 TicTak - Short Video Platform**
+### **🚀 Coolify - AI-Powered Deployment Automation Platform**
 
-A full-stack media platform for creating and sharing short-form videos, similar to TikTok. Built with Laravel Admin backend and native Android app, enabling users to create, edit, and share engaging video content.
+An open-source, self-hostable PaaS that automates deployments of websites, databases, and applications to any server. Enhanced with AI capabilities for intelligent resource scaling, anomaly detection, and predictive maintenance. The Heroku/Vercel alternative that gives you full control over your infrastructure.
 
 <details>
 <summary>✨ Key Features</summary>
 
-- **Video Recording**: Native Android camera integration with filters, effects, and AR stickers
-- **Video Editing**: Trim, split, merge, add music, text overlays, and transitions
-- **Social Feed**: Infinite scroll, like/comment/share, and personalized content recommendations
-- **User Authentication**: OAuth, phone verification, and social login (Google, Facebook)
-- **Content Discovery**: Trending hashtags, challenges, and category-based exploration
-- **Live Streaming**: Real-time broadcasting with chat, gifts, and viewer count
-- **Admin Dashboard**: Laravel Nova for content moderation, user management, and analytics
-- **CDN Integration**: CloudFront for fast video delivery worldwide
+- **One-Click Deployments**: 280+ pre-configured services (PostgreSQL, Redis, WordPress, Mastodon, etc.)
+- **AI Auto-Scaling**: ML-driven resource prediction and automatic scaling based on traffic patterns
+- **Smart Health Monitoring**: Anomaly detection for server metrics, predictive failure alerts
+- **Git Integration**: Automatic deployments from GitHub, GitLab, Bitbucket with preview environments
+- **SSL Management**: Automatic Let's Encrypt certificate provisioning and renewal
+- **Backup Automation**: Intelligent backup scheduling with S3-compatible storage
+- **Multi-Server Orchestration**: Deploy across multiple servers/VPS with load balancing
+- **Team Collaboration**: Role-based access control, audit logs, and shared environments
+- **Cost Optimization**: AI suggestions for resource right-sizing to reduce cloud spend
 
 </details>
 
 <details>
 <summary>🛠️ Tech Stack</summary>
 
-`Laravel 10` `PHP 8.2` `MySQL` `Redis` `Android Studio` `Java` `Kotlin` `FFmpeg` `AWS S3` `CloudFront` `FFmpeg` `WebRTC` `Pusher`
+`PHP` `Laravel` `React` `Go` `Docker` `Docker Compose` `Nginx` `Traefik` `PostgreSQL` `Redis` `WebSockets` `Prometheus` `Grafana` `Machine Learning (Laravel ML)` `Python` `TensorFlow Lite`
 
 </details>
 
-**GitHub:** [codeberg.org/jpulpet/tictac-android-java](https://codeberg.org/jpulpet/tictac-android-java)
+**Live Demo:** [coolify.io](https://coolify.io)  
+**GitHub:** [github.com/coollabsio/coolify](https://github.com/coollabsio/coolify)
 
 ---
 
